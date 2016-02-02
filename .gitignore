@@ -1,0 +1,7 @@
+*.pyc
+*.html
+*.xml
+robot30
+*~
+.*.swp
+
